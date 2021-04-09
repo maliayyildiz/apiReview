@@ -37,5 +37,11 @@ public class api08 extends TestBase {
                         "title[3]",equalTo("et porro tempora"),
                         "title[-1]",equalTo("ipsam aperiam voluptates qui"));
         //"title[199]",equalTo("ipsam aperiam voluptates qui")
+        /*
+        Approach:
+Get the ArrayList with elements.
+Get the first element of ArrayList with use of get(index) method by passing index = 0.
+Get the last element of ArrayList with use of get(index) method by passing index = size – 1.
+         */
     }
 }

@@ -12,7 +12,7 @@ import utilities.TestBase;
 
 import static io.restassured.RestAssured.given;
 
-public class api7 extends TestBase {
+public class api07 extends TestBase {
     /*
 		 When
 			 I send a GET request to REST API URL
